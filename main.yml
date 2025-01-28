@@ -1,4 +1,4 @@
-name: DockerImage
+name: DockerImage1
 
 on:
   push:
